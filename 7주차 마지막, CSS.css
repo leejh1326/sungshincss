@@ -1,0 +1,24 @@
+html,
+body{
+    height: 100%;
+    font-style: "Open Sans", "snas-serif";
+    color: slateblue;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 15px;
+    color:rgb(141, 95, 141);
+    line height: 2;
+}
+
+img {
+    max-width: 100px;
+}
